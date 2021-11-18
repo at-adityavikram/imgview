@@ -6,3 +6,5 @@ right click an image file > open with > imgview.exe
 
 wanna use the .py file?
 open terminal > imgview.py "filename.png" > done
+
+<img src="preview.png" width=600>
